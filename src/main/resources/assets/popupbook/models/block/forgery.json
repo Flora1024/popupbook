@@ -1,0 +1,6 @@
+{
+  "loader": "popupbook:forgery",
+  "default": {
+    "parent": "popupbook:block/forgery_default"
+  }
+}

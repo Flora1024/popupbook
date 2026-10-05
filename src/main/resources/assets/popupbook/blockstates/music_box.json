@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "playing=false": {
+      "model": "popupbook:block/music_box_geo"
+    },
+    "playing=true": {
+      "model": "popupbook:block/music_box_geo"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "orb_launch": {
+    "subtitle": "sounds.popupbook.orb_launch",
+    "sounds": [
+      "popupbook:orb_launch"
+    ]
+  }
+}

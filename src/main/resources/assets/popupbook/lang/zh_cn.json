@@ -1,0 +1,20 @@
+{
+  "item.popupbook.staff": "法杖",
+  "tooltip.popupbook.staff.no_target": "尚未锁定生物",
+  "tooltip.popupbook.staff.target": "锁定目标：%s",
+  "tooltip.popupbook.staff.aim": "手持并下蹲：瞄准 %s 格内的生物，右键锁定",
+  "tooltip.popupbook.staff.cast": "松开下蹲后右键：发射追踪魔法球",
+  "message.popupbook.staff.locked": "已锁定 %s",
+  "message.popupbook.staff.no_aim_target": "未瞄准范围内的生物",
+  "message.popupbook.staff.not_locked": "尚未锁定生物，请下蹲瞄准并右键锁定",
+  "message.popupbook.staff.target_unavailable": "锁定目标已死亡或暂未加载，请重新瞄准锁定",
+  "message.popupbook.staff.wrong_dimension": "锁定目标在另一个维度",
+  "item.popupbook.sky_eye": "天眼",
+  "message.popupbook.sky_eye.bound": "已绑定 %s",
+  "message.popupbook.sky_eye.possess": "已附身 %s",
+  "message.popupbook.sky_eye.unpossess": "已回到本体",
+  "message.popupbook.sky_eye.not_bound": "尚未绑定目标，请先右键生物进行绑定",
+  "message.popupbook.sky_eye.target_gone": "绑定目标已死亡或已消失",
+  "message.popupbook.sky_eye.too_far": "绑定目标距离过远",
+  "message.popupbook.sky_eye.wrong_dimension": "绑定目标在另一个维度"
+}

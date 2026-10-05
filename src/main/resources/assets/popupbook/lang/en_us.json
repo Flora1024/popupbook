@@ -1,0 +1,34 @@
+{
+  "itemGroup.popupbook": "Example Mod Tab",
+  "block.popupbook.example_block": "Example Block",
+  "item.popupbook.example_item": "Example Item",
+
+  "popupbook.configuration.title": "Pop-up Book Configs",
+  "popupbook.configuration.section.popupbook.common.toml": "Pop-up Book Configs",
+  "popupbook.configuration.section.popupbook.common.toml.title": "Pop-up Book Configs",
+  "popupbook.configuration.items": "Item List",
+  "popupbook.configuration.logDirtBlock": "Log Dirt Block",
+  "popupbook.configuration.magicNumberIntroduction": "Magic Number Text",
+  "popupbook.configuration.magicNumber": "Magic Number",
+
+  "block.popupbook.forgery": "Forgery",
+
+  "item.popupbook.staff": "Staff",
+  "tooltip.popupbook.staff.no_target": "No locked creature",
+  "tooltip.popupbook.staff.target": "Locked target: %s",
+  "tooltip.popupbook.staff.aim": "Hold and sneak: aim at a creature within %s blocks, right-click to lock",
+  "tooltip.popupbook.staff.cast": "Release sneak and right-click to fire a homing magic sphere",
+  "message.popupbook.staff.locked": "Locked onto %s",
+  "message.popupbook.staff.no_aim_target": "No creature in your sights within range",
+  "message.popupbook.staff.not_locked": "No locked creature. Sneak, aim and right-click to lock first.",
+  "message.popupbook.staff.target_unavailable": "The target is dead or unloaded. Aim and lock again.",
+  "message.popupbook.staff.wrong_dimension": "The locked target is in another dimension.",
+  "item.popupbook.sky_eye": "Sky Eye",
+  "message.popupbook.sky_eye.bound": "Bound to %s",
+  "message.popupbook.sky_eye.possess": "Now possessing %s",
+  "message.popupbook.sky_eye.unpossess": "Returned to your body",
+  "message.popupbook.sky_eye.not_bound": "No bound target. Right-click a mob to bind it first.",
+  "message.popupbook.sky_eye.target_gone": "The bound target is dead or gone.",
+  "message.popupbook.sky_eye.too_far": "The bound target is too far away.",
+  "message.popupbook.sky_eye.wrong_dimension": "The bound target is in another dimension."
+}
