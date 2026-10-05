@@ -1,6 +1,6 @@
 package com.flora.popupbook.item.staff;
 
-import com.flora.popupbook.entity.AbstractMagicSphereEntity;
+import com.flora.popupbook.entity.magicsphere.AbstractMagicSphereEntity;
 import com.flora.popupbook.registry.ModEntities;
 import com.flora.popupbook.registry.ModDataComponentTypes;
 import com.flora.popupbook.registry.ModSounds;

@@ -1,4 +1,4 @@
-package com.flora.popupbook.entity;
+package com.flora.popupbook.entity.magicsphere;
 
 import com.flora.popupbook.registry.ModParticles;
 import net.minecraft.nbt.CompoundTag;

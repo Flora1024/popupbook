@@ -3,7 +3,7 @@ package com.flora.popupbook;
 import com.flora.popupbook.block.forgery.ForgeryBlockEntity;
 import com.flora.popupbook.block.forgery.client.ForgeryGeometryLoader;
 import com.flora.popupbook.block.musicbox.client.MusicBoxBlockEntityRenderer;
-import com.flora.popupbook.entity.renderer.SphereEntityRenderer;
+import com.flora.popupbook.entity.magicsphere.renderer.SphereEntityRenderer;
 import com.flora.popupbook.particle.MagicSphereTrailParticle;
 import com.flora.popupbook.registry.ModBlocks;
 import com.flora.popupbook.registry.ModBlockEntityTypes;

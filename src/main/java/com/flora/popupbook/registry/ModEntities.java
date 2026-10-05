@@ -1,9 +1,8 @@
 package com.flora.popupbook.registry;
 
 import com.flora.popupbook.PopupBook;
-import com.flora.popupbook.entity.AbstractMagicSphereEntity;
+import com.flora.popupbook.entity.magicsphere.AbstractMagicSphereEntity;
 import net.minecraft.core.registries.BuiltInRegistries;
-import net.minecraft.core.registries.Registries;
 import net.minecraft.world.entity.EntityType;
 import net.minecraft.world.entity.MobCategory;
 import net.neoforged.neoforge.registries.DeferredRegister;

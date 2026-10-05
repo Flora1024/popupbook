@@ -1,10 +1,9 @@
-package com.flora.popupbook.entity.renderer;
+package com.flora.popupbook.entity.magicsphere.renderer;
 
 import com.flora.popupbook.PopupBook;
-import com.flora.popupbook.entity.AbstractMagicSphereEntity;
+import com.flora.popupbook.entity.magicsphere.AbstractMagicSphereEntity;
 import com.mojang.blaze3d.vertex.PoseStack;
 import com.mojang.blaze3d.vertex.VertexConsumer;
-import com.mojang.math.Axis;
 import net.minecraft.client.renderer.MultiBufferSource;
 import net.minecraft.client.renderer.RenderType;
 import net.minecraft.client.renderer.entity.EntityRenderer;
