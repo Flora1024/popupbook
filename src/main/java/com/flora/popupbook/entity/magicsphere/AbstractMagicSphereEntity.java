@@ -30,8 +30,6 @@ public class AbstractMagicSphereEntity extends Projectile {
     public double zPower = 0;
     @Nullable
     private LivingEntity target;
-    @Nullable
-    private UUID targetId;
 
     private static final EntityDataAccessor<Float> DAMAGE = SynchedEntityData.defineId(AbstractMagicSphereEntity.class, EntityDataSerializers.FLOAT);
 
@@ -113,7 +111,7 @@ public class AbstractMagicSphereEntity extends Projectile {
         this.setDeltaMovement(currentVec3.scale(getInertia()));
         this.setPos(d0, d1, d2);
 
-        if (this.level().isClientSide()) {
+        if (this.level().isClientSide() && tickCount > 3) {
             this.level().addParticle(ModParticles.MAGIC_SPHERE_TRAIL_PARTICLES.get(),
                     this.getX() - currentVec3.x, this.getY() - currentVec3.y + 0.15D, this.getZ() - currentVec3.z,
                     0.0D, 0.0D, 0.0D);
